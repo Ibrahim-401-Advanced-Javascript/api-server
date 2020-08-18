@@ -1,2 +1,11 @@
-
-{ "categories" : [], "products" : [] }
+{
+  "categories": [
+    {
+      "name": "putNewName",
+      "display_name": "given new name with http put",
+      "description": "demo of http put complete",
+      "id": "idOne"
+    }
+  ],
+  "products": []
+}
