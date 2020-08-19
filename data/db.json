@@ -1,12 +1,11 @@
 {
   "categories": [
     {
-      "name": "putNewName",
-      "display_name": "given new name with http put",
-      "description": "demo of http put complete",
-      "id": "idOne"
+      "name": "categoryname",
+      "display_name": "Category Name",
+      "description": "example description of demo category",
+      "id": "id_1"
     }
   ],
-  
   "products": []
 }
