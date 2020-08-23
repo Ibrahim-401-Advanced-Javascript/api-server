@@ -63,20 +63,3 @@ describe('Server Tests', () => {
   });
 
 });
-
-xdescribe('API Tests', () => {
-
-  it('should', () => {
-
-  });
-
-});
-
-xdescribe('MiddleWare Tests', () => {
-
-  it('should', () => {
-
-  });
-
-});
-
