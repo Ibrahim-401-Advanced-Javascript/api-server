@@ -1,11 +1,15 @@
 {
+
   "categories": [
     {
-      "name": "categoryname",
-      "display_name": "Category Name",
-      "description": "example description of demo category",
-      "id": "id_1"
+      "name": "categoryname"
     }
   ],
-  "products": []
+
+  "products": [
+    {
+      "name":"productname"
+    }
+  ]
+  
 }
